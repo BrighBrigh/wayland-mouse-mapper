@@ -1,6 +1,8 @@
 # wayland-mouse-mapper
 Fork of mathportillo's wayland-mouse-wrapper, specific to my system.
 
+Working with Razer DeathAdder Elite on Dell XPS 13 running Arch Linux
+
 ## Buttons
 These are just the default settings, you can customize them at the start of the mousemapper.sh script.
 
