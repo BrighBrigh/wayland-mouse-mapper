@@ -3,7 +3,7 @@ Description=Mouse button mapping that works on wayland
 After=display-manager.service
 
 [Service]
-ExecStart=/usr/bin/mousemapper
+ExecStart=/usr/local/bin/mousemapper
 
 [Install]
 WantedBy=multi-user.target
