@@ -16,7 +16,7 @@ The script depends on the following executables being available in your PATH:
 
 to install those just run the following command (with root privileges):
 ```
-dnf -y install libinput evemu
+pacman -S libinput evemu
 ```
 
 ## Usage
